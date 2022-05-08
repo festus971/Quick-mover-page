@@ -1,0 +1,142 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+nav {
+  display: right;
+  justify-content: space-between;
+  background-color: blue;
+  justify-content: right;
+}
+nav > .image {
+  font-size: 30px;
+  color: rgb(209, 26, 26);
+}
+nav > .thelinks > ul > li {
+  display: inline-block;
+  padding: 10px;
+  color: white;
+}
+#sectHeader {
+  opacity: 0.8;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#sectHeader > .Header {
+  text-align: center;
+  background-image: url(../Quick/moving\ 0.png);
+  opacity: 0.8;
+  background-position: center center;
+  align-items: center;
+  justify-content: center;
+}
+.image2 {
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+}
+.h2 .page2 {
+  float: inline-end;
+  justify-content: center;
+  align-items: center;
+  border: 2px;
+  padding-left: 5%;}
+.unordered22 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  display: grid;
+  
+}
+.unordered {
+  text-align: end;
+}
+.Details {
+  text-align: end;
+}
+.width {
+  justify-content: baseline;
+  align-items: center;
+  position: relative;
+  width: fit-content;
+}
+.features {
+  color: black;
+  text-align: center;
+  border: 10px;
+  margin: 40px;
+  padding: 10px;
+}
+#topmover {
+  width: 100%;
+  clear: left;
+}
+.width {
+  width: 30%;
+  float: left;
+  margin: 1% 1%;
+  padding: 0px;
+  align-items: flex-end;
+}
+#simillar {
+  width: 10%;
+}
+.square {
+  width: 20%;
+  float: left;
+  align-content: flex-start;
+  margin: 1% 1%;
+  padding: 0px;
+}
+.rectangle {
+  width: 20%;
+  align-content: flex-start;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.make {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+  border: 100;
+}
+.H6 {
+  font-weight: 700;
+  justify-items: center;
+  align-items: center;
+}
+.subheading2 {
+  clear: left;
+  background-color: black;
+  color: white;
+}
+.button {
+  color: #ffac12;
+}
+.texts {
+  color: #faff00;
+}
+.text-block1 {
+  background-color: black;
+  color: white;
+}
+.modern {
+  flex-direction: column-reverse;
+  font-size: larger;
+}
+.one {
+  justify-content: end;
+  justify-items: end;
+  display: right;
+}
+.top-nav {
+  
+  justify-content: right;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
